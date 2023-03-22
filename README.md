@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujit Jaunjal,</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif”></img>
-
 <p align="left"> <img src="![image](https://user-images.githubusercontent.com/78826399/227025724-de72bccf-0676-448d-b734-ae05a9f8c116.png)" alt="sujit-jaunjal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujit-jaunjal" alt="sujit-jaunjal" /></a> </p>
