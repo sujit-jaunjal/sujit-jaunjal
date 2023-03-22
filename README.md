@@ -4,19 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujit-jaunjal" alt="sujit-jaunjal" /></a> </p>
 
-- 🌱 I’m currently a Google Summer of Code 2023 mentor for the organisation - **52 North GmbH**
+- 🌱 I’m currently an Open Source Community Member, GSoC'22 Contributor and GSoC'23 Mentor at - **52° North GmbH**
 
 - 👨‍💻 All of my projects are available at [https://imsujit.netlify.app/](https://imsujit.netlify.app/)
 
-- 📝 I regularly write articles on [https://blog.52north.org/2022/09/23/ui-for-arctic-sea-settings-api-faroe-final-blog-post/](https://blog.52north.org/2022/09/23/ui-for-arctic-sea-settings-api-faroe-final-blog-post/)
+- 💬 Ask me about - **Java, SpringBoot, ReactJS.**
 
-- 💬 Ask me about **Java, SpringBoot, ReactJS.**
+- 📫 How to reach me - **jaunjalsujit@gmail.com**
 
-- 📫 How to reach me **jaunjalsujit@gmail.com**
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1sK8QRfbcyrxRRP9yLipsTbEF1e27ZOXY/view?usp=share_link](Resume)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sK8QRfbcyrxRRP9yLipsTbEF1e27ZOXY/view?usp=share_link](https://drive.google.com/file/d/1sK8QRfbcyrxRRP9yLipsTbEF1e27ZOXY/view?usp=share_link)
-
-- ⚡ Fun fact **I am open source enthusiast**
+- ⚡ Fun fact - **I am open source enthusiast!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
