@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujit Jaunjal,</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/78826399/227028940-19828b56-3050-478f-9101-4693e8bdea99.png)">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 - 🌱 I’m currently an Open Source Community Member, GSoC'22 Contributor and GSoC'23 Mentor at - **52° North GmbH**
