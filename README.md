@@ -11,15 +11,13 @@
 
 - I’m currently an Open Source Community Member, GSoC'22 Contributor and GSoC'23 Mentor at - **52° North GmbH**
 
-- 👨‍💻 All of my projects are available at [https://imsujit.netlify.app/](https://imsujit.netlify.app/)
-
-- 📝 I regularly write articles on [https://blog.52north.org/2022/09/23/ui-for-arctic-sea-settings-api-faroe-final-blog-post/](https://blog.52north.org/2022/09/23/ui-for-arctic-sea-settings-api-faroe-final-blog-post/)
+- 👨‍💻 My portfolio is available at - [https://imsujit.netlify.app/](https://imsujit.netlify.app/)
 
 - 💬 Ask me about - **Java, SpringBoot, ReactJS.**
 
 - 📫 How to reach me - **jaunjalsujit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sK8QRfbcyrxRRP9yLipsTbEF1e27ZOXY/view?usp=share_link](https://drive.google.com/file/d/1sK8QRfbcyrxRRP9yLipsTbEF1e27ZOXY/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sK8QRfbcyrxRRP9yLipsTbEF1e27ZOXY/view?usp=share_link)
 
 - ⚡ Fun fact **I am an Open Source enthusiast!**
 
