@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit-jaunjal&label=Profile%20views&color=0e75b6&style=flat" alt="sujit-jaunjal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujit-jaunjal" alt="sujit-jaunjal" /></a> </p>
+
 
 - 🔭 I’m currently a final year student at - **University of Pune(CGPA-9.62/10)**
 
