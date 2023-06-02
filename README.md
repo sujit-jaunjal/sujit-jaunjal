@@ -17,7 +17,7 @@
 
 - 📫 How to reach me - **jaunjalsujit@gmail.com**
 
-- 📄 Know about my experiences - [Resume/CV](https://drive.google.com/file/d/1sK8QRfbcyrxRRP9yLipsTbEF1e27ZOXY/view?usp=share_link)
+- 📄 Know about my experiences - [Resume/CV](https://drive.google.com/file/d/1Cx8omgJKJ3jszWoY9naK7BXema8wqMG5/view?usp=sharing)
 
 - ⚡ Fun fact **I am an Open Source enthusiast!**
 
