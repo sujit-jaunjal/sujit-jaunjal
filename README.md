@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently a final year student at - **University of Pune(CGPA-9.62/10)**
+- 🔭 I’m a Bachelors of Engineering Graduate in Information Technology from - **University of Pune(CGPA-9.62/10)**
 
-- I’m currently an Open Source Community Member, GSoC'22 Contributor and GSoC'23 Mentor at - **52° North GmbH**
+- I’m currently an Open Source Community Member, GSoC'22 Contributor and GSoC'23 Mentor at - **52°North Spatial Information Research GmbH**
 
 - 👨‍💻 My portfolio is available at - [https://imsujit.netlify.app/](https://imsujit.netlify.app/)
 
