@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m a Bachelors of Engineering Graduate in Information Technology from - **University of Pune(CGPA-9.62/10)**
+- 🔭 I’m a Bachelors of Engineering Graduate in Information Technology from - **University of Pune(CGPA-9.63/10)**
 
-- I’m currently an Open Source Community Member, GSoC'22 Contributor and GSoC'23 Mentor at - **52°North Spatial Information Research GmbH**
+- I’m currently a Software Engineer at Electronic Bit and an Open Source Community Member, GSoC'22 Contributor and GSoC'23 Mentor at - **52°North Spatial Information Research GmbH**
 
 - 👨‍💻 My portfolio is available at - [https://imsujit.netlify.app/](https://imsujit.netlify.app/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me - **jaunjalsujit@gmail.com**
 
-- 📄 Know about my experiences - [Resume/CV](https://drive.google.com/file/d/1Cx8omgJKJ3jszWoY9naK7BXema8wqMG5/view?usp=sharing)
+- 📄 Know about my experiences - [Resume/CV](https://drive.google.com/file/d/1gfc1yWgDGYjtF2Pitq05W7cZsVMLNJHs/view?usp=sharing)
 
 - ⚡ Fun fact **I am an Open Source enthusiast!**
 
