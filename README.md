@@ -27,26 +27,29 @@
 
 ## Snapshot
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>3+</h3>
-      <p><strong>Years Experience</strong><br/>Engineering delivery across modern web systems</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>10+</h3>
-      <p><strong>Products Built</strong><br/>From fintech and AI to learning platforms</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>6+</h3>
-      <p><strong>Major Recognitions</strong><br/>Hackathons, ICPC, GSoC, and national jury roles</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>GSoC</h3>
-      <p><strong>Contributor -> Mentor</strong><br/>Open-source execution at 52°North</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/3%2B-Years%20Experience-0EA5E9?style=for-the-badge&labelColor=082F49" alt="3+ Years Experience" />
+  <img src="https://img.shields.io/badge/10%2B-Products%20Built-14B8A6?style=for-the-badge&labelColor=042F2E" alt="10+ Products Built" />
+  <img src="https://img.shields.io/badge/6%2B-Major%20Recognitions-F59E0B?style=for-the-badge&labelColor=451A03" alt="6+ Major Recognitions" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSoC-Contributor%20%E2%86%92%20Mentor-0284C7?style=flat-square&logo=google&logoColor=white" alt="GSoC Contributor to Mentor" />
+  <img src="https://img.shields.io/badge/Gold%20Medalist-IT%20Engineering-16A34A?style=flat-square&logo=trophy&logoColor=white" alt="Gold Medalist" />
+  <img src="https://img.shields.io/badge/Operating%20Mode-Engineering%20%E2%80%A2%20Product%20%E2%80%A2%20Ops-0F766E?style=flat-square" alt="Operating mode" />
+</p>
+
+<details>
+<summary><strong>Why this snapshot is meaningful</strong></summary>
+<br/>
+
+| Dimension | What I optimize for | Impact |
+|---|---|---|
+| Build Velocity | High-quality features shipped fast | Faster product iteration and launch cycles |
+| Product UX | Interfaces that users adopt instantly | Better retention, engagement, and trust |
+| System Resilience | Production-grade architecture | Stable, scalable, compliance-ready delivery |
+
+</details>
 
 ## About
 
@@ -191,12 +194,12 @@ I operate at the intersection of:
 ## GitHub Pulse
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujit-jaunjal&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Sujit's%20GitHub%20Stats" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujit-jaunjal&show_icons=true&hide_border=true&hide=commits&custom_title=Sujit's%20GitHub%20Stats" alt="GitHub stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-jaunjal&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit-jaunjal&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit-jaunjal&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ## Contact
