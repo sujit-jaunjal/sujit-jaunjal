@@ -195,7 +195,7 @@ I operate at the intersection of:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujit-jaunjal&show_icons=true&hide_border=true&hide=commits&custom_title=Sujit's%20GitHub%20Stats" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-jaunjal&hide_border=true" alt="GitHub streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-jaunjal&hide_border=true&card_width=467&card_height=170" alt="GitHub streak" />
 </p>
 
 <p align="center">
